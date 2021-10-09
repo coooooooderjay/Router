@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import Router
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {

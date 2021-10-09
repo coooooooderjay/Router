@@ -1,0 +1,29 @@
+{
+  "name": "Router",
+  "version": "0.0.1",
+  "summary": "Router for iOS",
+  "description": "Router for iOS. Router for iOS.",
+  "homepage": "https://github.com/coooooooderjay/Router",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "coooooooderjay": "coooooooderjay@163.com"
+  },
+  "source": {
+    "git": "https://github.com/coooooooderjay/Router.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "Router/Classes/**/*",
+  "dependencies": {
+    "SwifterSwift": [
+
+    ]
+  },
+  "swift_versions": "5",
+  "swift_version": "5"
+}
